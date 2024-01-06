@@ -8,7 +8,7 @@ Strive 1.9 is a cutting-edge, efficient, and user-friendly programming language 
 ## Features
 - **Elegant Syntax**: Write cleaner code with an intuitive and expressive syntax that boosts productivity and reduces development time.
 - **Performance Optimized**: Experience blazing-fast execution as Strive is built with performance in mind, ensuring your applications run smoothly and efficiently.
-- **Cross-platform Support**: Develop applications that run seamlessly on various platforms, including Windows, macOS, Linux, and more.
+- **Cross-platform Support**: Develop applications that run seamlessly on various platforms, including LinkOS, Windows, macOS, Linux, and more.
 - **Robust Standard Library**: Benefit from a comprehensive collection of pre-built functions and modules that speed up the development of complex features.
 - **Advanced Safety Features**: Enjoy peace of mind with features that catch errors early, making your code more reliable and secure.
 - **Versatile Tooling**: Access a wide range of tools and integrations that streamline your workflow and enhance your development environment.
