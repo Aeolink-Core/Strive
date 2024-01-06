@@ -1,6 +1,6 @@
 # Strive 1.9
 
-![Strive Logo](https://console.aeolink.com/strive.png)
+![Strive Logo](https://console.aeolink.com/strive-banner.png)
 
 ## Introduction
 Strive 1.9 is a cutting-edge, efficient, and user-friendly programming language designed to accelerate the software development process. Its elegant syntax and powerful features empower developers at all levels to create robust, high-quality applications with ease. Whether you're building web, mobile, or desktop applications, Strive 1.9 is equipped to handle your most demanding challenges.
